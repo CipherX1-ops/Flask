@@ -27,7 +27,7 @@
 <details><summary>Heroku.com 🚀</summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jainamoswal/Flask-Example)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CipherX1-ops/Flask)
 </details>
  
 <details><summary>Replit.co 🌀</summary>
